@@ -17,7 +17,7 @@ copy .env.example .env or (linux command) cp .env.example .env
     
 (See Project) http://127.0.0.1:8000/posts
 
-# Make Seeder Database Step
+# Make Seeder Database
 
     php artisan make:seeder ProductsTableSeeder
 
